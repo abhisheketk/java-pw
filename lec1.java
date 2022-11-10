@@ -10,7 +10,7 @@ public class lec1 {
             System.out.println("equal");
         } else {
             if (a > b) {
-                System.out.println("a is grater");
+                System.out.println("a is grater than b");
             } else {
                 System.out.println("a is smaller");
             }
