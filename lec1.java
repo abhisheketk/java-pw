@@ -1,6 +1,6 @@
 import java.util.*;
 
-// chalo acha hai
+// chalo acha hai bohot
 public class lec1 {
     public static void main(String[] args) {
         Scanner sr = new Scanner(System.in);
