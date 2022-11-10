@@ -1,5 +1,6 @@
 import java.util.*;
 
+// chalo acha hai
 public class lec1 {
     public static void main(String[] args) {
         Scanner sr = new Scanner(System.in);
