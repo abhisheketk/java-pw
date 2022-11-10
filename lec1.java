@@ -6,16 +6,7 @@ public class lec1 {
         Scanner sr = new Scanner(System.in);
         int a = sr.nextInt();
         int b = sr.nextInt();
-        if (a == b) {
-            System.out.println("equal");
-        } else {
-            if (a > b) {
-                System.out.println("a is grater than b");
-            } else {
-                System.out.println("a is smaller");
-            }
-
-        }
+        System.out.println(a + b);
 
     }
 }
